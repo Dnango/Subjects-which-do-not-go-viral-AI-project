@@ -11,8 +11,12 @@ Social media are all about topics or content going viral. But what is actually l
 
 On social media it is all about the winner, the one that got the most views, likes or other. This is coherent to a certain world view where the loudest, the best, the most competitive succeed. But in a real social environment or construct it is much more complex, it works more like a soccer team, you have all kinds of teamplayers and not just the one that scores but those who defend or distribute the ball to other tactically. If I look at my own social environment there are thos who are good at selling there stories, there those who are more in the back ground but good at ideating, or asking questions, those who are good at organizing and distributing roles or tasks, and those that will really florish only when there is a emergency, etc. So can we find the same patterns in social media intereactions and make those visible?
 
+In the bigger picture but out of scope for this project. In order for people to have a more diverse view on social interactions it could help (assumption) if social media allow for a more diverse role play (like mentioned above) of interactions, but because of the current main stream model this is not of interest to a lot of the social platforms. What can be learned from an analysis of that what is "forgotten" quickly?
+
+
+
 Suspected problems:
-* In order for people to have a more diverse view on social interactions social media should allow for a more diverse role play of interactions, but because of the current (money making) model this is not of interest to a lot of the social platforms. What can be learned from an analysis of that what is "forgotten" quickly?
+* Defining what is "unpopular"? When is some content on a social media platform unpopular: is it based on likes, shares, views or a combination of? What is the threshold for these?   
 * Hypothesis: since media are aimed at creating the most attractive and responsive content in order to attracked the most people, certain topics will be naturally blanked out.
 * Hypothesis 2: since media are culturally and therfore regionally biased certain content might be underprefferd by the system
 * Hypothesis 3: social media might be pilotically biased and being use to emit a certain world view by preferring certain stories over other. 
