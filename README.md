@@ -27,12 +27,7 @@ Suspected problems:
 
 The algorythm can be run on social media data to find patterns on content that is impopular and find different types categories in content and of roles in having content impoluar (or popular).
 
-[TODO] Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
-
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+![Bored person](https://upload.wikimedia.org/wikipedia/commons/6/6a/Bored_Cartoon_Man_Using_A_Computer.svg)
 
 This is how you create code examples:
 ```
