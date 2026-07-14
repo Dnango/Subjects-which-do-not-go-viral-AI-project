@@ -29,7 +29,7 @@ The algorythm can be run on social media data to find patterns on content that i
 
 ![Bored person](https://upload.wikimedia.org/wikipedia/commons/6/6a/Bored_Cartoon_Man_Using_A_Computer.svg)
 
-Code example:
+Code example (This code is from https://github.com/bonzanini/Book-SocialMediaMiningPython):
 ```
 # Chap02-03/twitter_term_frequency.py from https://github.com/bonzanini/Book-SocialMediaMiningPython
 import sys
