@@ -97,10 +97,7 @@ Gianluca Stringhini, Boston University, United Kingdom, gian@bu.edu
 DOI: https://doi.org/10.1145/3501247.3531551
 WebSci '22: 14th ACM Web Science Conference 2022, Barcelona, Spain, June 2022
 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+* Bored Cartoon Man using a Computer](https://commons.wikimedia.org/wiki/File:[Bored_Cartoon_Man_Using_A_Computer.svg](Bored_Cartoon_Man_Using_A_Computer.svg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
 
 ## Privacy Notice
 This project analyzes **publicly available tweets** and does store personal data. All data is anonymized.
