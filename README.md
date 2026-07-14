@@ -54,9 +54,9 @@ Data is being drawn from external (3rd party) sources. Sources are:
 
   **Source**               | **Description**                                                                                     |
  |--------------------------|-----------------------------------------------------------------------------------------------------|
- | [Twitter API](https://developer.twitter.com/en/docs) | Real-time and historical tweets. Filter by **low engagement** (likes/retweets < 10).               |
- | [Pushshift (Reddit)](https://pushshift.io/) | Historical Reddit posts/comments. Filter by **low upvotes** (e.g., < 5).                          |
- | [Mastodon API](https://joinmastodon.org/servers) | Decentralized, privacy-focused alternative to Twitter. Filter by **low engagement**.          |
+ | [Twitter API](https://developer.twitter.com/en/docs) | Real-time and historical tweets. | Filter by **low engagement**                |
+ | [Pushshift (Reddit)](https://pushshift.io/) | Historical Reddit posts/comments. | Filter by **low upvotes**                          |
+ | [Mastodon API](https://joinmastodon.org/servers) | Decentralized, privacy-focused alternative to Twitter. | Filter by **low engagement**          |
 
 ## Challenges
 
