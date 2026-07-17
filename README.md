@@ -27,7 +27,8 @@ Suspected problems:
 
 The algorythm can be run on social media data to find patterns on content that is impopular and find different types categories in content and of roles in having content impoluar (or popular).
 
-AI methods to be used start with lineair regression and might build up to neural networking by trail and error. The outcome should allow for categorisation.
+AI methods to be used start with Naive Bays classification, then see if outcome can be improved by using nearest neighbour classification or adding wheights (lineair regression?). Using a bag of words approach at first. After, start forecasting with test data, by trial and error it should improve its predictions probably using logistic regression. The outcome should allow for categorisation of social media content.
+
 ![Bored person](https://upload.wikimedia.org/wikipedia/commons/6/6a/Bored_Cartoon_Man_Using_A_Computer.svg)
 
 Code example (This code is from https://github.com/bonzanini/Book-SocialMediaMiningPython):
