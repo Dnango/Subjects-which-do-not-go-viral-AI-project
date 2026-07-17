@@ -27,6 +27,7 @@ Suspected problems:
 
 The algorythm can be run on social media data to find patterns on content that is impopular and find different types categories in content and of roles in having content impoluar (or popular).
 
+AI methods to be used start with lineair regression and might build up to neural networking by trail and error. The outcome should allow for categorisation.
 ![Bored person](https://upload.wikimedia.org/wikipedia/commons/6/6a/Bored_Cartoon_Man_Using_A_Computer.svg)
 
 Code example (This code is from https://github.com/bonzanini/Book-SocialMediaMiningPython):
@@ -127,19 +128,22 @@ Proper data scientist and python skills would be needed in order to determine if
 
 ## [TODO] Acknowledgments
 
+* Readme.md Template
+  Helsinki University
+  
 * Social Media Mining with Python
-Repository with code for analyzing Twitter/Reddit data by Marco Bonzanini
-Python (tweepy, praw)
-Filter and analyze low-engagement posts.
-GitHub: https://github.com/bonzanini/Book-SocialMediaMiningPython
+  Repository with code for analyzing Twitter/Reddit data by Marco Bonzanini
+  Python (tweepy, praw)
+  Filter and analyze low-engagement posts.
+  GitHub: https://github.com/bonzanini/Book-SocialMediaMiningPython
 
 * Slapping Cats, Bopping Heads, and Oreo Shakes: Understanding Indicators of Virality in TikTok Short Videos
-Chen Ling, Boston University, USA, ccling@bu.edu
-Jeremy Blackburn, Binghamton University, USA, jblackbu@binghamton.edu
-Emiliano De Cristofaro, University College London, United Kingdom, e.decristofaro@ucl.ac.uk
-Gianluca Stringhini, Boston University, United Kingdom, gian@bu.edu
-DOI: https://doi.org/10.1145/3501247.3531551
-WebSci '22: 14th ACM Web Science Conference 2022, Barcelona, Spain, June 2022
+  Chen Ling, Boston University, USA, ccling@bu.edu
+  Jeremy Blackburn, Binghamton University, USA, jblackbu@binghamton.edu
+  Emiliano De Cristofaro, University College London, United Kingdom, e.decristofaro@ucl.ac.uk
+  Gianluca Stringhini, Boston University, United Kingdom, gian@bu.edu
+  DOI: https://doi.org/10.1145/3501247.3531551
+  WebSci '22: 14th ACM Web Science Conference 2022, Barcelona, Spain, June 2022
 
 * Bored Cartoon Man using a Computer](https://commons.wikimedia.org/wiki/File:[Bored_Cartoon_Man_Using_A_Computer.svg](Bored_Cartoon_Man_Using_A_Computer.svg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
 
